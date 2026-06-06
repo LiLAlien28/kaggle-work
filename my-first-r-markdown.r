@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "d3dda80c",
+   "id": "21d260bc",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
@@ -13,10 +13,10 @@
      "shell.execute_reply": "2026-05-31T05:02:40.097015Z"
     },
     "papermill": {
-     "duration": 0.001957,
-     "end_time": "2026-06-05T17:39:42.909000",
+     "duration": 0.001641,
+     "end_time": "2026-06-06T17:58:01.061366",
      "exception": false,
-     "start_time": "2026-06-05T17:39:42.907043",
+     "start_time": "2026-06-06T17:58:01.059725",
      "status": "completed"
     },
     "tags": []
@@ -44,19 +44,19 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "183802bd",
+   "id": "64ff761f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-05T17:39:42.916897Z",
-     "iopub.status.busy": "2026-06-05T17:39:42.914419Z",
-     "iopub.status.idle": "2026-06-05T17:39:44.127582Z",
-     "shell.execute_reply": "2026-06-05T17:39:44.125437Z"
+     "iopub.execute_input": "2026-06-06T17:58:01.067273Z",
+     "iopub.status.busy": "2026-06-06T17:58:01.065341Z",
+     "iopub.status.idle": "2026-06-06T17:58:02.046936Z",
+     "shell.execute_reply": "2026-06-06T17:58:02.044908Z"
     },
     "papermill": {
-     "duration": 1.219855,
-     "end_time": "2026-06-05T17:39:44.130363",
+     "duration": 0.986991,
+     "end_time": "2026-06-06T17:58:02.049470",
      "exception": false,
-     "start_time": "2026-06-05T17:39:42.910508",
+     "start_time": "2026-06-06T17:58:01.062479",
      "status": "completed"
     },
     "tags": []
@@ -85,13 +85,13 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "5047c24b",
+   "id": "08b59836",
    "metadata": {
     "papermill": {
-     "duration": 0.002883,
-     "end_time": "2026-06-05T17:39:44.135980",
+     "duration": 0.001756,
+     "end_time": "2026-06-06T17:58:02.053266",
      "exception": false,
-     "start_time": "2026-06-05T17:39:44.133097",
+     "start_time": "2026-06-06T17:58:02.051510",
      "status": "completed"
     },
     "tags": []
@@ -125,14 +125,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 4.585542,
-   "end_time": "2026-06-05T17:39:44.262477",
+   "duration": 3.764292,
+   "end_time": "2026-06-06T17:58:02.175843",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2026-06-05T17:39:39.676935",
+   "start_time": "2026-06-06T17:57:58.411551",
    "version": "2.6.0"
   }
  },
